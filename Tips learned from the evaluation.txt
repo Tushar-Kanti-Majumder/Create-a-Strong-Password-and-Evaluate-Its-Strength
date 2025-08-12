@@ -1,0 +1,43 @@
+Tips Learned from the Evaluation
+
+1. Length is Crucial:
+
+     Longer passwords are significantly more secure. Aim for at least 12-16 characters  . The longer the password, the harder it is for brute-force attacks to succeed.
+
+2.   Character Variety Enhances Security  :
+
+     Use a mix of   uppercase letters  ,   lowercase letters  ,   numbers  , and   special characters  . This variety greatly increases the number of possible combinations, making it harder for attackers to crack.
+
+3.   Avoid Dictionary Words and Patterns  :
+
+     Passwords that use   common words   or   simple patterns   (e.g., `"123456"`, `"qwerty"`, or `"password"`) are   easy targets for attackers  .
+     Even   modified   or   substituted   words (e.g., `"P@ssw0rd"`) can be vulnerable to   dictionary-based attacks  .
+
+4.   Randomness is Key  :
+
+     Completely random passwords are far more secure than predictable ones. Avoid using familiar phrases, and instead focus on random sequences of characters.
+     A combination of   random words  , numbers, and special characters can create a secure password that is still somewhat memorable.
+
+5.   Unique Passwords for Different Accounts  :
+
+     Using the same password across multiple sites or services increases the risk of   credential stuffing   (when attackers use your stolen password on other accounts).
+     Always use   unique passwords   for each of your accounts to reduce the impact of a single account being compromised.
+
+6.   Multi-Factor Authentication (MFA)  :
+
+     Adding   MFA   to accounts adds an extra layer of security, even if the password is compromised. This significantly lowers the chances of an attacker gaining access to your account.
+
+7.   Avoid Common Substitutions  :
+
+     Substituting characters like `@` for “a” or `1` for “I” is no longer sufficient for creating strong passwords. Attackers know these common substitutions and can easily guess them.
+
+8.   Check Password Strength  :    
+      Always test your passwords using   password strength checkers   to ensure they meet modern security standards. Aim for a score of   80/100 or higher on reliable tools.
+
+9.   Keep Your Passwords Updated  :
+
+     Regularly change your passwords, especially for sensitive accounts like email or banking. A good practice is to rotate passwords every   3-6 months  .
+
+10.   Use a Password Manager  :
+
+      A   password manager   helps store and generate strong, unique passwords for every account. This reduces the risk of reusing weak passwords and helps you keep track of them securely.
